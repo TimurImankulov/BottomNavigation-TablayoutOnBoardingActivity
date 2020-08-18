@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson18</string>
+    <string name="tvNext_name">Next</string>
+    <string name="home_name">Главная</string>
+    <string name="subscriptions_name">Подписки</string>
+    <string name="notifications_name">Уведомления</string>
+    <string name="library_name">Библиотека</string>
+</resources>
